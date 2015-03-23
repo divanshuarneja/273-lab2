@@ -1,0 +1,7 @@
+-o
+/home/ubuntu/protobuf-3.0.0-alpha-2/java/grpc-java/compiler/build/binaries/java_pluginExecutable/java_plugin
+/home/ubuntu/protobuf-3.0.0-alpha-2/java/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/9i86sy383wbbx6a5zj21wn7za/java_plugin.o
+/home/ubuntu/protobuf-3.0.0-alpha-2/java/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/9ec2sdi2cwcwjf34n8415mw01/java_generator.o
+/home/ubuntu/protobuf-3.0.0-alpha-2/java/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/aw29g0b59bsvnc5sg3jd60txy/java_generator.o
+-lprotoc
+-lprotobuf
