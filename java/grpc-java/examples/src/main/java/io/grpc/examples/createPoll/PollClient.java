@@ -48,11 +48,11 @@ public class PollClient {
 	try {
 	   PollRequest poll = PollRequest.newBuilder()
 	   .setModeratorId("12345")
-	   .setQuestion("a")
-	   .setStartedAt("b")
-	   .setExpiredAt("c")
-	   .addChoice("d")
-	   .addChoice("e")
+	   .setQuestion("smartphone you like")
+	   .setStartedAt("03/22/2015")
+	   .setExpiredAt("03/23/2015")
+	   .addChoice("iphone")
+	   .addChoice("samsung")
 	   .build();
       client.poll(poll);
     } finally {
